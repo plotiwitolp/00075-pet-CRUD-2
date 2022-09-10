@@ -82,5 +82,6 @@ $products = mysqli_fetch_all($products);
   </div>
   <script src="./script.js"></script>
 </body>
+<!--  -->
 
 </html>
